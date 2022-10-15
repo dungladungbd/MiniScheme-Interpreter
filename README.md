@@ -1,3 +1,9 @@
-This program is a Racket interperter which supports up to recursion.
+# MiniScheme Interpreter 
 
-Run minischeme.rkt to run the program.
+## Brian Do
+
+### Run minischeme.rkt to run the program
+
+Explored Racket (a fork of Scheme) to learn about interpreted language
+
+Created an interpreter for Racket being able to handle up to lambda expression, closure, and recursion
